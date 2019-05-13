@@ -1,0 +1,12 @@
+;;FREEZE or THAW Layer(s). 
+-LAYER
+THAW
+REVS
+
+-LAYER
+Set
+0
+
+zoom
+e
+regen
