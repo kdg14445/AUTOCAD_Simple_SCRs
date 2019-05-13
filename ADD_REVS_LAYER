@@ -1,0 +1,14 @@
+;;Create the REVS layer with additional details
+-Layer
+N
+REVS
+C
+131
+REVS
+LW
+.30
+REVS
+TR
+50
+REVS
+
