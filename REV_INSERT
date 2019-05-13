@@ -1,0 +1,17 @@
+;;Rev 0 insert
+Insert
+"C:\users\public\documents\autodesk\acade 2018\libs\jic125\Revision.dwg"
+;REV 0 - 14.4264,0.2813,0.0; REV 1 - 14.4264,0.5313,0.0
+14.4264,0.2813,0.0
+
+
+
+gatte
+b
+;Block Name
+Revision
+;Attribute Name to change [ DATE, BY, DESC, REV, MOD ]
+DATE
+;Text to change
+05/13/19
+Y
