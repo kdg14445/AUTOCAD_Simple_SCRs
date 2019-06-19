@@ -1,0 +1,2 @@
+;;Delete Layout1
+(command "_.layout" "Delete" "Layout1")
