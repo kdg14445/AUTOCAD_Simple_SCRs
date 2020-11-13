@@ -1,0 +1,15 @@
+# Change mm to Inch
+
+
+Command: SCALE  <- hit Return
+Select objects:  <- Select objects
+
+Specify opposite corner: 2 found
+Select objects:   <- hit Return
+Specify base point:    <- Pick base point
+Specify scale factor or [Copy/Reference]: 'CAL   <-Type 'CAL command and hit Return
+>>>> Expression: 1/25.4   <-Enter this expression and hit Return
+Resuming SCALE command.
+Specify scale factor or [Copy/Reference]: 0.039370078740157
+
+ 
